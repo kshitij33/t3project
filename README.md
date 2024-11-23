@@ -2,8 +2,9 @@
 
 ## Todo
 
-- [ ] Make it deployable (vercel)
-- [ ] Make it deploy
+- [x] Make it deployable (vercel)
+- [x] Make it deploy
+- [ ] Tidy up the build process
 - [ ] Scaffold basic ui with mock data
 - [ ] Actually set up a database (vercel/postgres)
 - [ ] Attach database to UI
